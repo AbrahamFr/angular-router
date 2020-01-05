@@ -15,3 +15,11 @@
 
 # IDEs - VSCode
 .vscode/*
+
+# misc
+npm-debug.log
+/typings
+
+#System Files
+.DS_store
+Thumbs.debug
